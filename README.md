@@ -18,13 +18,26 @@
 
 
 <h2 align="left">💻 My Tech Stack</h2>
-<img width="90" height="90" src="https://img.icons8.com/color/100/c-programming.png" alt="c-programming"/>
-<img width="90" height="90" src="https://img.icons8.com/nolan/96/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+<img width="60" height="60" src="https://img.icons8.com/color/100/c-programming.png" alt="c-programming"/>
+<img width="60" height="60" src="https://img.icons8.com/nolan/96/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 
-<img width="90" height="90" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="65" height="65" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="55" height="55" src="https://img.icons8.com/external-those-icons-flat-those-icons/96/external-HTML5-programming-and-development-those-icons-flat-those-icons.png" alt="external-HTML5-programming-and-development-those-icons-flat-those-icons"/>
 
+<img width="65" height="65" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
 
+<img width="60" height="60" src="https://img.icons8.com/color/96/sass.png" alt="sass"/>
 
+<img width="60" height="60" src="https://img.icons8.com/color/96/bootstrap--v2.png" alt="bootstrap--v2"/>
+
+<img width="60" height="60" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/>
+
+<img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
+
+<img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
+<img width="60" height="60" src="https://img.icons8.com/color/96/mongodb.png" alt="mongodb"/>
+
+<img width="60" height="60" src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
 
 
 
