@@ -1,3 +1,6 @@
+ <img  align="left" src="https://github.com/jeevananthamsuburaj/jeevanantham-s/blob/b12bfcef2ff79168e2ca256c57af65060cee6a3b/Jeeva-banner.jpg" alt="jeeva-banner" height="400" width="2000"  /> 
+ <p></p>
+
 <h1 align="center">✨ Hi there, I'm Jeevanantham Subburaj👋  </h1>
 <h2 align="center">💻 Software Developer | 🚀 Tech Enthusiast | 🌍 Lifelong Learner</h2>
 
@@ -70,12 +73,6 @@
    </p>
 
 
-
-📄 **Certificates**:  
-&nbsp;&nbsp;&nbsp;&nbsp;• [Python (Basic)](https://www.hackerrank.com/certificates/your_certificate_id)  
-&nbsp;&nbsp;&nbsp;&nbsp;• [SQL (Intermediate)](https://www.hackerrank.com/certificates/your_certificate_id)
-
-🔗 **Profile**: [https://www.hackerrank.com/your_username](https://www.hackerrank.com/your_username)
 
    
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevananthamsuburaj&bg_color=0c1014&color=32a889&line=a5093f&point=07cf2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
