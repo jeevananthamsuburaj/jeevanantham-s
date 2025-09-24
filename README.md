@@ -1,5 +1,6 @@
- <img  align="left" src="https://github.com/jeevananthamsuburaj/jeevanantham-s/blob/b12bfcef2ff79168e2ca256c57af65060cee6a3b/Jeeva-banner.jpg" alt="jeeva-banner" height="400" width="2000"  /> 
- <p></p>
+<p >
+ <img src="https://github.com/jeevananthamsuburaj/jeevanantham-s/blob/b12bfcef2ff79168e2ca256c57af65060cee6a3b/Jeeva-banner.jpg" alt="jeeva-banner" height="400" width="2000"  /> 
+</p>
 
 <h1 align="center">✨ Hi there, I'm Jeevanantham Subburaj👋  </h1>
 <h2 align="center">💻 Software Developer | 🚀 Tech Enthusiast | 🌍 Lifelong Learner</h2>
