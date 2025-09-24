@@ -42,41 +42,43 @@
 <p align="left">
 
 <img width="50" height="50" src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
-<img width="40" height="40" src="https://img.icons8.com/color/96/spring-logo.png" alt="spring-logo"/>
+<img width="50" height="50" src="https://img.icons8.com/color/96/spring-logo.png" alt="spring-logo"/>
 
 </p>
 
 <h3>Database</h3>
 <p align="left">
-<img width="50" height="50" src="https://img.icons8.com/color/96/mongodb.png" alt="mongodb"/>
+<img width="55" height="55" src="https://img.icons8.com/color/96/mongodb.png" alt="mongodb"/>
 
-<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
+<img width="55" height="55" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
  
 </p>
 
 <h3>Software</h3>
 <p align="left">
+<img width="45" height="45" src="https://img.icons8.com/color/96/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
 
- 
-</p>
+   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 
+   <img width="45" height="45" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+   
+   <img width="45" height="45" src="https://img.icons8.com/color/96/intellij-idea.png" alt="intellij-idea"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
 
-
-
-
-
-
-
-
-
+   </p>
 
 
 
-<p align="left">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+📄 **Certificates**:  
+&nbsp;&nbsp;&nbsp;&nbsp;• [Python (Basic)](https://www.hackerrank.com/certificates/your_certificate_id)  
+&nbsp;&nbsp;&nbsp;&nbsp;• [SQL (Intermediate)](https://www.hackerrank.com/certificates/your_certificate_id)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevananthamsuburaj&show_icons=true&locale=en&layout=compact" alt="jeevananthamsuburaj" /></p>
+🔗 **Profile**: [https://www.hackerrank.com/your_username](https://www.hackerrank.com/your_username)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevananthamsuburaj&show_icons=true&locale=en" alt="jeevananthamsuburaj" /></p>
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeevananthamsuburaj&bg_color=0c1014&color=32a889&line=a5093f&point=07cf2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevananthamsuburaj&" alt="jeevananthamsuburaj" /></p>
+
+
